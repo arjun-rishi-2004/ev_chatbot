@@ -11,7 +11,13 @@ class Query(BaseModel):
 
 
 app = FastAPI()
-nlp = spacy.load("en_core_web_sm")
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    print("Downloading en_core_web_sm model...")
+    from spacy.cli import download
+    download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 with open("faqs.json", "r", encoding="utf-8") as file:
     faq_data = json.load(file)

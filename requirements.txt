@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+spacy
+fuzzywuzzy
+python-Levenshtein
