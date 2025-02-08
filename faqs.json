@@ -1,0 +1,43 @@
+{
+    "Can all electric vehicles use DC fast charging?": "Not all electric vehicles can use DC fast charging. It depends on the vehicle's charging port and battery technology. Some older EV models may not support DC fast charging, so it's essential to check your vehicle's specifications before using a fast charger.",
+    "How can I charge my EV":[
+        "Scan the QR code on the charger using the Zeon app.",
+        "Select the charging point in the app and start the session manually.",
+        "Use Zeon Charging RFID key to start charging.",
+        "Enable Autocharge (only for CCS connectors) and plug in your vehicle."
+      ],
+    "Can frequent use of fast charging harm my EV's battery?": "Using fast charging regularly can have some impact on an EV's battery health over time. However, modern EVs are designed to handle fast charging without significant degradation. To minimize the impact, avoid charging the battery to its maximum capacity often and use AC charging when feasible for day-to-day charging.",
+    "How long does it take to charge an electric vehicle fully?": "The time required to fully charge an electric vehicle varies based on the EV's battery size and the charging station's power output. On average, an AC charger might take 3 to 20 hours, and DC fast charging can provide an 80% charge in 20 to 60 minutes. Remember that charging times are approximate and can differ depending on the EV model and the state of the battery when charging begins. Always refer to your vehicle's manual or charging station specifications for accurate charging times.",
+    "Can I charge 2 Wheelers in Zeon Charging Station?": "No, only vehicles with CCS2, Type2 & CHAdeMO charging ports can charge in our charging stations.",
+    "Where can I find DC fast charging stations?": "DC fast charging stations are usually located along major highways, in busy urban areas, and at rest stops. They are designed for long-distance travel and quick top-ups while on the road.",
+    "How can I find nearby EV charging stations?": "You can use Zeon Charging mobile apps or websites to locate nearby charging stations. These platforms provide real-time information about available chargers, charging speeds, and pricing.",
+    "How do I get a B2B tax invoice with company details?": "You can update your company name and GST details in your profile. After updating, from the next charging session onwards, you will receive a B2B tax invoice.",
+    "What customer support options are available through the Zeon Charging App?": [
+      "Phone Support (24/7 helpline)",
+      "In-App Help Centre (FAQs and troubleshooting guides)",
+      "Email Support",
+      "Social Media Support (Twitter, Instagram & Facebook)"
+    ],
+    "Where can I download Zeon Charging app?": "Zeon Charging App is available on the App Store and Play Store. Click here to download the app.",
+    "How to sign-up into Zeon Charging app?": "The sign-up process is simple. You can log in by entering your mobile number and email address. After OTP verification, your signup process will be completed. Then, add your vehicle details in your profile.",
+    "How do I top-up my Zeon charging wallet?": "After signing up, go to the 'More' option, click on 'Wallet,' enter the amount for the top-up, and make payment using UPI, Credit/Debit card, net banking, or external wallets.",
+    "What are the payment options available on the Zeon Charging App?": [
+      "UPI",
+      "Credit/Debit Cards",
+      "Net Banking",
+      "In-App Credits System"
+    ],
+    "How do I use the Zeon Charging App to navigate to a charging point?": "Open the Zeon Charging App, enable location services, find nearby charging stations on the map, select the station, and tap on 'Navigate' or 'Get Directions' to launch your device's navigation app.",
+    "Can multiple users log in to the same account?": "Yes, multiple users can log in to a single account, and the Zeon Charging app allows multiple sessions at the same time. The primary user can log out of all devices using OTP authorization if needed.",
+    "How to start a charging session?": [
+      "Scan the QR code on the charger using the Zeon app.",
+      "Select the charging point in the app and start the session manually.",
+      "Use Zeon Charging RFID key to start charging.",
+      "Enable Autocharge (only for CCS connectors) and plug in your vehicle."
+    ],
+
+    "Can I monitor the charging progress remotely?": "Yes, the Zeon Charging App allows users to monitor charging sessions remotely, tracking energy consumption, charging speed, duration, and receiving notifications when charging is completed.",
+    "What should I do if I lost or broke my RFID?": "If you lose your RFID key, go to the RFID dashboard in the app and deactivate your key using OTP authorization. If your RFID is damaged, deactivate it and order a new one from the same page.",
+    "What is Autocharge and how can I enable it for my vehicle?": "Autocharge is an innovative feature that streamlines the charging process for compatible EVs. You can request to enable Autocharge through the Zeon Charging app. Once enabled, simply plug in your vehicle, and charging will start automatically."
+  }
+  
